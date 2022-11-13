@@ -1,5 +1,6 @@
 Real application:
 https://cvgl.stanford.edu/teaching/cs231a_winter1415/prev/projects/CS231a-FinalReport-sgmccann.pdf
+
 with zero set method
 https://people.csail.mit.edu/sparis/talks/Paris_06_3D_Reconstruction.pdf
 
